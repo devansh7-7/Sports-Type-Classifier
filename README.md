@@ -26,7 +26,7 @@ Following are the types of sports over which we are trying to classifying:
 ![Sports Type](https://github.com/anubhavmaity/Sports-Type-Classifier/blob/master/readme_images/sports.png)
 
 
-### Data Distribution
+### Data Distribution of 
 Data has been downloaded with the help of [gi2ds](https://github.com/toffebjorkskog/ml-tools/blob/master/gi2ds.md)
 
 Training set: 11524
